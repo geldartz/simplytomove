@@ -53,7 +53,7 @@
                     <div class="box" data-aos="zoom-in" data-aos-delay="200">
                         <img src="images/reliable-icon-2.png" alt="">
                     <h4>Meet The Flatmates</h4>
-                    <p>Dolorem est fugiat occaecati voluptate velit esse. Dicta veritatis dolor quod et vel dire leno para dest</p>
+                    <p>Lorem </p>
                     </div>
                 </div>
 
